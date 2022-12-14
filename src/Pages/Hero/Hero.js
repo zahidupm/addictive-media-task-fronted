@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
     return (
-        <div>
+        <div className="mb-12">
             <div className='grid grid-cols-6 gap-4 mt-24'>
                 <div className='col-start-2 col-span-4'>
                     <div className='flex justify-between'>
